@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SocioInfonavit</string>
+
+    <string name="login_mail">Correo</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_forget_password"><u>Olvide mi contraseña</u></string>
+    <string name="login_into">Entrar</string>
+    <string name="login_no_account">No tengo cuenta</string>
+    <string name="login_register"><u>Registrarme</u></string>
+
+    <string name="login_title_error">Usuario y contraseña incorrectos</string>
+    <string name="login_description_error">Intente nuevamente</string>
+    <string name="login_ok">OK</string>
+    <string name="login_no">NO</string>
+
+    <string name="strBtn_nav_benevits">Benevits</string>
+    <string name="strBtn_nav_logout">Cerrar sesión</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="main_logout">¿Esta seguro que desea cerrar su sesión?</string>
+    <string name="main_alert">Alerta</string>
+    <string name="main_error_logout">No se pudo cerrar su sesión</string>
+    <string name="main_error_service">Problemas con el servidor</string>
+
+    <string name="main_wallet_discount">en todos los lentes de contacto.</string>
+    <string name="main_wallet_country">Todo México.</string>
+    <string name="main_wallet_expire">Vence en: %d días</string>
+    <string name="main_btn_love_it">LO QUIERO</string>
+
+</resources>
